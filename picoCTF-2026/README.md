@@ -1,7 +1,7 @@
-# picoCTF 2026 Write-Ups
+# 🖥️ picoCTF 2026 Write-Ups
 
-This folder contains my write-ups for **picoCTF 2026**.  
-I focused on beginner Linux and Git challenges to build foundational cybersecurity skills.
+This folder contains my write-ups from the **picoCTF 2026** cybersecurity challenges.  
+It demonstrates my learning in Linux, Git, and privilege escalation, as well as problem-solving in CTF-style exercises.
 
 ---
 
@@ -37,6 +37,25 @@ This challenge required reading a file (`flag.txt`) that had restricted permissi
 3. Ran `sudo -l` to check allowed sudo commands.  
 4. Found that `/bin/emacs` could be run with sudo.  
 5. Opened the file with `sudo emacs flag.txt` to read the flag.
+
+---
+
+## 🧠 Skills Practiced
+
+- Linux commands & filesystem navigation  
+- Git repository analysis & manipulation  
+- Privilege escalation techniques  
+- Analytical & logical thinking  
+
+---
+
+## 📂 Challenges Completed
+
+- Beginner Linux challenges  
+- Git manipulation exercises  
+- Basic CTF problem-solving scenarios  
+
+**Note:** No scripts or files were required for these exercises; the focus was on documenting solutions and understanding concepts.
 
 ---
 
