@@ -1,4 +1,4 @@
-# CTF Write-Ups
+# 🕵🏽‍♂️ CTF Write-Ups
 
 This repository contains my write-ups from various Capture The Flag (CTF) challenges.  
 It serves as a record of my hands-on learning in cybersecurity, focusing on problem-solving, analysis, and practical techniques used in real-world scenarios.
@@ -7,11 +7,11 @@ It serves as a record of my hands-on learning in cybersecurity, focusing on prob
 
 ## 🧠 Skills Demonstrated
 
-- Linux command line usage
-- Privilege escalation
-- Git and version control analysis
-- Basic web exploitation concepts
-- Problem-solving and analytical thinking
+- Linux command line usage  
+- Privilege escalation  
+- Git and version control analysis  
+- Basic web exploitation concepts  
+- Problem-solving and analytical thinking  
 
 ---
 
@@ -37,11 +37,4 @@ It serves as a record of my hands-on learning in cybersecurity, focusing on prob
 ## 🔗 Other Security Work
 
 - DevSecCon25 Challenge (Top 5 Finish)  
-  [View Proof & Solution](https://github.com/chris12x1/devseccon25-proof)
-
----
-
-## 👤 Author
-
-**Christopher Diaz**  
-Cybersecurity Professional | CompTIA CySA+ | SIEM (Splunk) | Threat Detection | Incident Response
+  https://github.com/chris12x1/devseccon25-proof
