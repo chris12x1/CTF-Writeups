@@ -37,11 +37,11 @@ It serves as a record of my hands-on learning in cybersecurity, focusing on prob
 ## 🔗 Other Security Work
 
 - DevSecCon25 Challenge (Top 5 Finish)  
-  https://github.com/chris12x1/devseccon25-proof
+  [View Proof & Solution](https://github.com/chris12x1/devseccon25-proof)
 
 ---
 
 ## 👤 Author
 
-Christopher Diaz  
+**Christopher Diaz**  
 Cybersecurity Professional | CompTIA CySA+ | SIEM (Splunk) | Threat Detection | Incident Response
