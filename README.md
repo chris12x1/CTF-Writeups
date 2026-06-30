@@ -9,7 +9,7 @@ It serves as a record of my hands-on learning in cybersecurity, focusing on prob
 
 My team **`Ctrl_Alt_Defeat`** took **first place** in the cybersecurity Capture The Flag track at the 2026 Bloomberg × The Knowledge House Hackathon — a 27-level challenge built by **Bloomberg's Product Security team**, completed in full including the hidden secret level.
 
-![Ctrl_Alt_Defeat — 1st Place](Bloomberg-TKH-CTF-2026/screenshots/leaderboard_first_place.png)
+![Ctrl_Alt_Defeat — 1st Place](Bloomberg-TKH-CTF-2026/Screenshots/leaderboard_first_place.png)
 
 The challenge spanned the full web-exploitation spectrum: information disclosure, broken authentication, JWT forgery, SQL & command injection, prompt injection, path traversal, open redirects, client-side crypto, reverse engineering, business-logic abuse, and multi-step exploit chaining.
 
