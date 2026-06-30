@@ -2,7 +2,7 @@
 
 **Team:** `Ctrl_Alt_Defeat` &nbsp;|&nbsp; **Result:** 🥇 **1st Place** &nbsp;|&nbsp; **Progress:** 27/27 levels (−1 → 25, including the hidden secret level)
 
-![Ctrl_Alt_Defeat — 1st Place](screenshots/leaderboard_first_place.png)
+![Ctrl_Alt_Defeat — 1st Place](Screenshots/leaderboard_first_place.png)
 
 A hands-on, web-focused Capture The Flag built by **Bloomberg's Product Security team** for The Knowledge House's annual Hackathon. The challenge ran across a live target and progressed from basic source-code recon to chained authentication bypasses, with each level mapping to a real-world vulnerability class.
 
