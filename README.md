@@ -38,6 +38,11 @@ The challenge spanned the full web-exploitation spectrum: information disclosure
 - Full-spectrum web exploitation, authentication bypass, and exploit chaining  
 - 📁 Write-up: ➡️ [`Bloomberg-TKH-CTF-2026/`](Bloomberg-TKH-CTF-2026/)
 
+### 🏳️ Flare × SANS × WiCyS CTF 2026 — "Sisterhood of the Traveling Packets"
+- Solo solve of a beginner-friendly, browser-based CTF investigating a fictional ransomware leak site
+- Chained API enumeration, leaked credentials, and chat-log OSINT to recover the flag
+- 📁 Write-up: ➡️ [`Flare-WiCyS-CTF-2026/`](Flare-WiCyS-CTF-2026/)
+
 ### picoCTF 2026
 - Completed beginner challenges focused on Linux and Git fundamentals  
 - Practiced privilege escalation and repository manipulation techniques  
