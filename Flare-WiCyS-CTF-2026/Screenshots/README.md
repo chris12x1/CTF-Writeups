@@ -19,5 +19,5 @@ Supporting images for the [Flare × WiCyS CTF write-up](../README.md) — Solo s
 | `13-decoded_password.png` | CyberChef decoding the password from Base64 |
 | `14-admin_dashboard_flag.png` | Authenticated admin dashboard showing the recovered flag |
 
-> ⚠️ **Redaction note:** This CTF was a single-run public event, officially closed by WiCyS with the flag publicly disclosed in their announcement. Images are shown unredacted as a result — unlike reused/ongoing CTFs, there's no future participant advantage being given away here.
+> ⚠️ **Redaction note:** This CTF was a single-run public event, officially closed by WiCyS with the flag publicly disclosed in their announcement. Images are shown redacted 
 
