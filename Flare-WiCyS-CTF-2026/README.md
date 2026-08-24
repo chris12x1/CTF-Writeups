@@ -7,7 +7,7 @@ A hands-on, browser-only Capture The Flag built by **Flare**, in partnership wit
 
 > ⚠️ **Authorization & Ethics:** All testing was performed against a sanctioned CTF platform during an organized, public event with explicit permission from the organizers. This write-up is for educational purposes only. The techniques shown here are used by threat intel researchers and penetration testers under authorization — never against real systems you do not own or have written permission to test.
 
-> 🔓 **Redaction note:** WiCyS officially closed this CTF and publicly disclosed the final flag in their announcement post, so it's shown here in full rather than redacted. Intermediate discoveries (API keys, decoded passwords) are shown as recovered during the solve, since they were fictional/challenge-scoped and no longer provide access to anything live.
+> 🔓 **Redaction note:** WiCyS officially closed this CTF and publicly disclosed the final flag in their announcement post, so it's shown here in full rather than redacted. Images are shown redacted. Intermediate discoveries (API keys, decoded passwords) are shown as recovered during the solve, since they were fictional/challenge-scoped and no longer provide access to anything live.
 
 📷 Full image set: [`Screenshots/`](Screenshots/)
 
